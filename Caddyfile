@@ -1,0 +1,4 @@
+mi-proyecto.fly.dev {
+    root * /app
+    file_server
+}
